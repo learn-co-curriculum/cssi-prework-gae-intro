@@ -33,6 +33,8 @@ Your webapp needs to be able to get data (a request) from a user and send data b
 There are two ways that a client (users) can make a request (send data): **GET** and **POST**
  + GET - data is stored within a URL
  + POST - data is submitted and temporarily stored
+ 
+(Technically, there are also a few other types of request, but we're not going to be talking about them or using them during CSSI)
 
 You will learn how to deal with both of these types of requests during our time together at CSSI training.
 
